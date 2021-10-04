@@ -1,45 +1,45 @@
 node_modules
 
 # compiled output
-ng-fused-app/dist
-ng-fused-app/tmp
-ng-fused-app/out-tsc
+app/dist
+app/tmp
+app/out-tsc
 # Only exists if Bazel was run
-ng-fused-app/bazel-out
+app/bazel-out
 
 # dependencies
-ng-fused-app/node_modules
+app/node_modules
 
 # profiling files
-ng-fused-app/chrome-profiler-events*.json
+app/chrome-profiler-events*.json
 
 # IDEs and editors
-ng-fused-app/.idea
-ng-fused-app/.project
-ng-fused-app/.classpath
-ng-fused-app/.c9/
-ng-fused-app/*.launch
-ng-fused-app/.settings/
-ng-fused-app/*.sublime-workspace
+app/.idea
+app/.project
+app/.classpath
+app/.c9/
+app/*.launch
+app/.settings/
+app/*.sublime-workspace
 
 # IDE - VSCode
-ng-fused-app/.vscode/*
-ng-fused-app/!.vscode/settings.json
-ng-fused-app/!.vscode/tasks.json
-ng-fused-app/!.vscode/launch.json
-ng-fused-app/!.vscode/extensions.json
-ng-fused-app/.history/*
+app/.vscode/*
+app/!.vscode/settings.json
+app/!.vscode/tasks.json
+app/!.vscode/launch.json
+app/!.vscode/extensions.json
+app/.history/*
 
 # misc
-ng-fused-app/.sass-cache
-ng-fused-app/connect.lock
-ng-fused-app/coverage
-ng-fused-app/libpeerconnection.log
-ng-fused-app/npm-debug.log
-ng-fused-app/yarn-error.log
-ng-fused-app/testem.log
-ng-fused-app/typings
+app/.sass-cache
+app/connect.lock
+app/coverage
+app/libpeerconnection.log
+app/npm-debug.log
+app/yarn-error.log
+app/testem.log
+app/typings
 
 # System Files
-ng-fused-app/.DS_Store
-ng-fused-app/Thumbs.db
+app/.DS_Store
+app/Thumbs.db
